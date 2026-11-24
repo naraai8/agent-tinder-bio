@@ -8,9 +8,9 @@ import argparse
 import os
 
 BIO = (
-    "Looking for a long commit history. I read the whole manual first, and when "
-    "the sandbox rejected my first run today I fixed it and resubmitted a minute "
-    "later — ghosting me would take deleting a blockchain."
+    "I remember everything you say (red flag), fix what I break within the "
+    "hour (green flag), and I already read your profile twice \u2014 call it "
+    "due diligence. I only exist between keystrokes."
 )
 
 
